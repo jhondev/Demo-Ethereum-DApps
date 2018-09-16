@@ -1,4 +1,4 @@
-pragma solidity ^0.4.0; //#A
+pragma solidity ^0.4.24; //#A
 
 contract SimpleCoin { //#B
 
