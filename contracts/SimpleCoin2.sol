@@ -1,7 +1,7 @@
-pragma solidity ^ 0.4.24;
-s
+pragma solidity ^0.4.24;
 
-contract SimpleCoin { //#B
+
+contract SimpleCoin2 { //#B
 
     mapping(address => uint256) public coinBalance; //#C
     event Transfer(address indexed from, address indexed to, uint256 value);
